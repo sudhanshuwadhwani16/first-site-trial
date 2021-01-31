@@ -1,3 +1,3 @@
-# student trial
+This a demo site for learning.
 
-Hey! This is sudhanshu
+Keep calm and do coding
